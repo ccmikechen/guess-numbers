@@ -1,0 +1,18 @@
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\bin\Debug\猜數字.exe
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\bin\Debug\猜數字.pdb
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\bin\Debug\猜數字.xml
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\obj\x86\Debug\猜數字.Form1.resources
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\obj\x86\Debug\猜數字.Resources.resources
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\obj\x86\Debug\猜數字.vbproj.GenerateResource.Cache
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\obj\x86\Debug\猜數字.exe
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\obj\x86\Debug\猜數字.xml
+C:\Users\rm2k3ru6ru6\AppData\Local\Temporary Projects\猜數字\obj\x86\Debug\猜數字.pdb
+H:\猜數字\猜數字\obj\x86\Debug\猜數字.exe
+H:\猜數字\猜數字\obj\x86\Debug\猜數字.xml
+H:\猜數字\猜數字\obj\x86\Debug\猜數字.pdb
+H:\猜數字\猜數字\bin\Debug\猜數字.exe
+H:\猜數字\猜數字\bin\Debug\猜數字.pdb
+H:\猜數字\猜數字\bin\Debug\猜數字.xml
+H:\猜數字\猜數字\obj\x86\Debug\猜數字.Form1.resources
+H:\猜數字\猜數字\obj\x86\Debug\猜數字.Resources.resources
+H:\猜數字\猜數字\obj\x86\Debug\猜數字.vbproj.GenerateResource.Cache
